@@ -16,6 +16,6 @@ Para obter ajuda sobre como iniciar o Flutter, consulte nossa [documentação](h
 
 | Tela 1 | Tela 2 | Tela 3 |
 | --------|--------|--------|
-|<img src="screenshot/ConversorDeMoedas_Tela1.png" width="320">|<img src="screenshot/ConversorDeMoedas_Tela2.png" width="320">|img src="screenshot/ConversorDeMoedas_Tela3.png" width="320">|
+|<img src="screenshot/ConversorDeMoedas_Tela1.png" width="320">|<img src="screenshot/ConversorDeMoedas_Tela2.png" width="320">|<img src="screenshot/ConversorDeMoedas_Tela3.png" width="320">|
 
 
