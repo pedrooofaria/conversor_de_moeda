@@ -1,12 +1,8 @@
-# conversordemoeda
-
-A new Flutter application.
-
-## Getting Started
-
 # Conversor de Moeda
 
 Aplicativo para converter o valor das moedas: Real, Dolar e Euro. 
+
+Atualizado em tempo real pela API do site [HG-Brasil](https://hgbrasil.com/finance)
 
 ## Getting Started
 
